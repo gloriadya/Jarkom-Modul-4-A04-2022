@@ -2,7 +2,7 @@
 
 **Nama Anggota Kelompok**
 
-- Samuel ()
+- Samuel (5025201187)
 - Mohamad Kholid Bughowi (5025201253)
 - Gloria Dyah Pramesti
 
