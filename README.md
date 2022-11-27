@@ -65,3 +65,19 @@ Diminta untuk membuat topologi pada CPT dan GNS3 seperti berikut
    | A16    | 10.1.6.0    | 255.255.254.0   | 10.1.7.255        |
    | A17    | 10.1.10.128 | 255.255.255.128 | 10.1.10.255       |
    | A18    | 10.1.11.0   | 255.255.255.128 | 10.1.11.127       |
+   
+   
+   ### GNS dengan CIDR
+   1. Melakukan Pembagian 
+   ![messageImage_1669120075429](https://user-images.githubusercontent.com/89601859/204129005-a89c4a93-404f-4dc7-b447-121a8bbebcb7.jpg)
+   
+   2. Melakukan pengelompokkan, dengan hasil akhir sebagai berikut
+   ![image](https://user-images.githubusercontent.com/89601859/204129038-e906a00e-d9a7-40b2-8868-12344efc4c49.png)
+
+   3. Lalu dilakukan pencarian network id, netmask, dan broadcast addr
+   ![image](https://user-images.githubusercontent.com/89601859/204129129-d7419670-53f9-47f7-b9c5-6f1dcb0f2d07.png)
+   <br>
+   ![image](https://user-images.githubusercontent.com/89601859/204129167-7fd5379c-4feb-4447-a23f-d646996c554e.png)
+   
+   4. Gambarkan GNS sesuai soal
+   ![image](https://user-images.githubusercontent.com/89601859/204129341-f565dbd1-3aee-4fe2-9718-7cf75a234292.png)
