@@ -75,6 +75,7 @@ Diminta untuk membuat topologi pada CPT dan GNS3 seperti berikut
    ![image](https://user-images.githubusercontent.com/89601859/204129038-e906a00e-d9a7-40b2-8868-12344efc4c49.png)
 
    3. Lalu dilakukan pencarian network id, netmask, dan broadcast addr
+ 
    ![image](https://user-images.githubusercontent.com/89601859/204129129-d7419670-53f9-47f7-b9c5-6f1dcb0f2d07.png)
    ![image](https://user-images.githubusercontent.com/89601859/204129167-7fd5379c-4feb-4447-a23f-d646996c554e.png)
    
